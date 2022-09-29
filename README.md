@@ -21,7 +21,7 @@
 - :technologist: I love using Software as a solution for real world `Problems`.
 - :computer: I am a competitive programmer at `Leetcode`.
 - :student: I’m currently learning `Deep Learning` and `Machine Learning`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/15pIyJN7RgGbqTBsiF8j1vxyQSmy0t9vM).
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1abLWzGQ8GVdZ6GxdFmtpK2WgJRb6jB-P/view?usp=sharing).
 - :nerd_face: Always `learning new things` and loves sharing knowledge with others.
 
 <br><br>
