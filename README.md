@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Satya Jeet Raj Upali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Information+Technology+Student;ML+And+DL+Enthusiast;Competitive+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Information+Technology+Student;Web+Development;ML+And+DL+Enthusiast;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
 
@@ -17,11 +17,12 @@
 
 <br><br>
 
-- :school: I am a student at [UIET](https://uiet.puchd.ac.in/), Punjab University, Chandigarh.
-- :technologist: I love using Software as a solution for real world `Problems`.
+- :school: I am an Undergraduate at [UIET](https://uiet.puchd.ac.in/), Punjab University, Chandigarh.
+- :technologist: I love using programming to solve real-world `Problems`.
 - :computer: I am a competitive programmer at `Leetcode`.
-- :student: I’m currently learning `Deep Learning` and `Machine Learning`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1abLWzGQ8GVdZ6GxdFmtpK2WgJRb6jB-P/view?usp=sharing).
+- :student: I’m greatly into learning `Deep Learning`, `Machine Learning` and `Web Development`.
+- 👨‍💻 I have done a 6-month SDE Internship at Amazon, Hyderabad and in the past, I have done work in Android Development, Machine Learning & Deep Learning and also have done a research paper as well. 
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1_cSOTM5vw2DgO8nn7kj76O2zNmCcLpMC/view?usp=drive_link).
 - :nerd_face: Always `learning new things` and loves sharing knowledge with others.
 
 <br><br>
