@@ -11,7 +11,7 @@
 </p>
 
 	
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
+## **About me 👨‍💻**
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -26,7 +26,7 @@
 
 <br><br>
 
-## **Tech Toolbox🧰**
+## **Tech Toolbox 🧰**
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
@@ -59,7 +59,9 @@
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+
+## **Connect with me 📢**
+<br>
 <p align="center">
 	<a href="mailto:satyajeetrajupali@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/satyajeet-rajupali/satyajeet-rajupali"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -72,7 +74,7 @@
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## **Github Stats 📊**
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
