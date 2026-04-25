@@ -16,12 +16,12 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- :school: I am a Software Engineer at Tech Mahindra.
+- :school: I am a Software Engineer - AI at Tech Mahindra.
 - :technologist: I love using programming to solve real-world `Problems`.
 - :computer: I am a problem solver at `Leetcode`.
-- :student: I’m greatly into learning `Deep Learning`, `Machine Learning` and `Web Development`.
+- :student: I’m greatly into learning `AI Engineering`.
 - 👨‍💻 I have done a 6-month SDE Internship at Amazon, Hyderabad and in the past, I have done work in Android Development, Machine Learning & Deep Learning and also have done a research paper as well. 
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [My Resume](https://github.com/satyajeet-rajupali/satyajeet-rajupali/files/12751380/SatyaJeetResume.pdf).
+- :thinking: I’m currently open for `AI Engineer` role.rajupali/files/12751380/SatyaJeetResume.pdf).
 - :nerd_face: Always `learning new things` and loves sharing knowledge with others.
 
 <br><br>
