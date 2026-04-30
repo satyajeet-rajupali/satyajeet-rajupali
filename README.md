@@ -152,8 +152,8 @@ Built a **privacy‑first** multi‑agent orchestrator with:
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
   <br/>
-  <a href="https://github.com/satyajeet-rajupali">
-    <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=satyajeet-rajupali&custom_title=satyajeet-rajupali's%20Contribution%20Graph&theme=react-dark" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=satyajeet-rajupali&custom_title=satyajeet-rajupali's%20Contribution%20Graph&theme=react-dark" />
   </a>
 </details>
 
