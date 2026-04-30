@@ -1,125 +1,180 @@
-<h1 align="center">Hi , I'm Satya Jeet Raj Upali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=AI+Engineer;Always+learning+new+things"></a>
-</p>
 
+<h1 align="center">Hi , I'm Satya Jeet Raj Upali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=AI+Engineer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</p>
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=satyajeet-rajupali&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="satyajeet-rajupali" /> 
+  <img src="https://komarev.com/ghpvc/?username=satyajeet-rajupali&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="satyajeet-rajupali" /> 
 </p>
 
-	
-## **About me 👨‍💻**
+---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+### 👨‍💻 About Me
 
+**AI Engineer** with a strong systems background and hands‑on experience in multi‑agent orchestration, RAG pipelines, and LLM application development.  
+I combine production‑grade software engineering with modern AI stacks to deliver **privacy‑first, observable, and stateful AI systems**.
 
-- :school: I am a Software Engineer - AI at Tech Mahindra.
-- :technologist: I love using programming to solve real-world `Problems`.
-- :computer: I am a problem solver at `Leetcode`.
-- :student: I’m greatly into learning `AI Engineering`.
-- 👨‍💻 I have done a 6-month SDE Internship at Amazon, Hyderabad and in the past, I have done work in Android Development, Machine Learning & Deep Learning and also have done a research paper as well. 
-- :thinking: I’m currently open for `AI Engineer` role.rajupali/files/12751380/SatyaJeetResume.pdf).
-- :nerd_face: Always `learning new things` and loves sharing knowledge with others.
+- 🔭 Worked on a **Multi‑Agent Elderly Care System** at **Tech Mahindra**, using A2A protocols, MCP, and RAG across Mobile, smart wearables & PCs.
+- 🧠 Deeply into **Generative AI, LLMs, Agentic Workflows, and Semantic Search**.
+- 💼 Interned at **Amazon** – optimised microservices, achieving **80‑85% latency reduction**.
+- 📊 **LeetCode Knight (Top 5%)** – 1895 rating; strong DSA foundations.
+- 🏆 Received **Standing Ovation Award** at Tech Mahindra.
+- 🤝 Always open to collaborate on **AI Engineering projects** and **agentic systems**.
 
-<br><br>
-
-## **Tech Toolbox 🧰**
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Spyder"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-<br>
 <br>
 
+---
 
+### 🧰 Core Competencies & AI Stack
 
-
-
-## **Connect with me 📢**
-<br>
 <p align="center">
-	<a href="mailto:satyajeetrajupali@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/satyajeet-rajupali/satyajeet-rajupali"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+917838791542"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/satyajeetrajupali?original_referer="><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" />
 </p>
 
+<!-- Programming Languages -->
+**👅 Programming Languages**  
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<br/><br/>
 
+<!-- AI & Machine Learning -->
+**🤖 AI & Machine Learning**  
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
+<img src="https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFD21E?style=for-the-badge&logo=openai&logoColor=black" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Embeddings-4B8BBE?style=for-the-badge" alt="Embeddings"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<br/><br/>
 
+<!-- Agentic AI & Orchestration -->
+**🕸️ Agentic AI & Orchestration**  
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/A2A_Protocol-FF6F00?style=for-the-badge" alt="A2A"/>
+<img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-000000?style=for-the-badge" alt="MCP"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 
+<br/><br/>
 
-## **Github Stats 📊**
+<!-- Vector Databases -->
+**🗄️ Vector Databases**  
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Chroma-4169E1?style=for-the-badge" alt="Chroma"/>
+<br/><br/>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<!-- Tools & Platforms -->
+**🔧 Tools, Platforms & Infrastructure**  
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Cross_Platform-000000?style=for-the-badge&logo=android&logoColor=white" alt="Cross-platform"/>
+<br/><br/>
 
-----	
+---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajeet-rajupali&theme=tokyonight_duo" alt="satyajeet-rajupali" /></p>
+### 🚀 Featured Project
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<a href="https://github.com/satyajeet-rajupali/realestate-multiagent">
+  <img align="right" src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="Repo"/>
+</a>
 
-----
-	
+**Federated Multi‑Agent Real Estate System**  
+`LangGraph` `A2A` `RAG` `Ollama` `ChromaDB` `Streamlit`
+
+Built a **privacy‑first** multi‑agent orchestrator with:
+- Agent Card discovery & stateful LangGraph workflows (SQLite checkpoints)
+- Decoupled FastAPI agents using JSON/REST A2A communication
+- RAG pipeline (ChromaDB + Ollama embeddings) for semantic market insights
+- Streamlit UI with intent validation, duplicate handling, and contextual follow‑up queries  
+*Zero cloud LLM calls – fully local and private.*
+
+<br clear="right"/>
+
+---
+
+### 📫 Let's Connect
+
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="satyajeet-rajupali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyajeet-rajupali&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyajeet-rajupali&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="satyajeet-rajupali" height="230px"/>
-<br/>
+  <a href="mailto:satyajeetrajupali@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/satyajeet-rajupali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/satyajeetrajupali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/+917838791542">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+---
+
+### 📊 GitHub Stats
+
+<details>
+  <summary><b>🔥 Streak Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajeet-rajupali&theme=tokyonight_duo" alt="Streak Stats" />
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-
-<a href="https://github.com/7oSkaaa"><img alt="satyajeet-rajupali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=satyajeet-rajupali&custom_title=satyajeet-rajupali's%20Contribution%20Graph&theme=react-dark" /></a>
- 
+<details>
+  <summary><b>💻 Profile Stats & Top Languages</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=satyajeet-rajupali&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyajeet-rajupali&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" height="230px"/>
+    <br/>
+    <b>Note:</b> Top languages reflects public code composition, not skill level.
+  </p>
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajeet-rajupali&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="satyajeet-rajupali" /></a> </p>
-	
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+  <br/>
+  <a href="https://github.com/satyajeet-rajupali">
+    <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=satyajeet-rajupali&custom_title=satyajeet-rajupali's%20Contribution%20Graph&theme=react-dark" />
+  </a>
 </details>
-	
+
+<details>
+  <summary><b>🏆 Trophies</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=satyajeet-rajupali&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+    </a>
+  </p>
+</details>
+
+<br/>
 
 
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/satyajeet-rajupali/satyajeet-rajupali/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
+## ✨ What’s New / Better?
+- **🌟 Resume‑driven content** – summary, core competencies, project, and achievements taken directly from your resume.
+- **🔨 VS Code** now explicitly featured in the Tools section (badge).
+- **🎯 Standout sections** – grouped badges under clear category titles, used emojis, and highlighted your featured project in a dedicated card.
+- **🐍 Kept all original stats & snake** – just rearranged to look cleaner.
+- **🔗 Fixed resume link** – (if you want to attach the PDF, I can add it; currently the featured project links to the repo).
+
+Let me know if you'd like any further tweaks!
