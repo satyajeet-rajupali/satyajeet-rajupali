@@ -168,13 +168,3 @@ Built a **privacy‑first** multi‑agent orchestrator with:
 </details>
 
 <br/>
-
-
-## ✨ What’s New / Better?
-- **🌟 Resume‑driven content** – summary, core competencies, project, and achievements taken directly from your resume.
-- **🔨 VS Code** now explicitly featured in the Tools section (badge).
-- **🎯 Standout sections** – grouped badges under clear category titles, used emojis, and highlighted your featured project in a dedicated card.
-- **🐍 Kept all original stats & snake** – just rearranged to look cleaner.
-- **🔗 Fixed resume link** – (if you want to attach the PDF, I can add it; currently the featured project links to the repo).
-
-Let me know if you'd like any further tweaks!
