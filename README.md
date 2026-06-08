@@ -21,7 +21,7 @@
 I combine production‑grade software engineering with modern AI stacks to deliver **privacy‑first, observable, and stateful AI systems**.
 
 - 🔭 Worked on a **Multi‑Agent Elderly Care System** at **Tech Mahindra**, using A2A protocols, MCP, and RAG across Mobile, smart wearables & PCs.
-- 🧠 Deeply into **Generative AI, LLMs, Agentic Workflows, and Semantic Search**.
+- 🧠 Deeply into **Generative AI, LLMs, Agentic Workflows, RAG, A2A, MCP, Vector Databases**.
 - 💼 Interned at **Amazon** – optimised microservices, achieving **80‑85% latency reduction**.
 - 📊 **LeetCode Knight (Top 5%)** – 1895 rating; strong DSA foundations.
 - 🏆 Received **Standing Ovation Award** at Tech Mahindra.
